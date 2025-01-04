@@ -1,0 +1,40 @@
+2020-03-07 20:33:09,345 [main] INFO ebanking - enter name
+2020-03-07 20:33:09,451 [main] INFO ebanking - enter password
+2020-03-07 20:33:12,121 [main] INFO ebanking - login test passed
+2020-03-07 20:35:00,960 [main] INFO ebanking - url is opened
+2020-03-07 20:35:00,990 [main] INFO ebanking - enter name
+2020-03-07 20:35:01,111 [main] INFO ebanking - enter password
+2020-03-07 20:35:04,731 [main] INFO ebanking - login test passed
+2020-03-08 11:20:38,737 [main] INFO ebanking - url is opened
+2020-03-08 11:20:38,868 [main] INFO ebanking - enter name
+2020-03-08 11:21:15,762 [main] INFO ebanking - url is opened
+2020-03-08 11:21:15,828 [main] INFO ebanking - enter name
+2020-03-08 11:21:16,236 [main] INFO ebanking - enter password
+2020-03-08 11:21:18,133 [main] INFO ebanking - login test passed
+2020-03-08 11:21:57,441 [main] INFO ebanking - url is opened
+2020-03-08 11:21:57,518 [main] INFO ebanking - enter name
+2020-03-08 11:21:57,769 [main] INFO ebanking - enter password
+2020-03-08 11:21:59,579 [main] INFO ebanking - login test passed
+2020-03-08 11:25:55,942 [main] INFO ebanking - url is opened
+2020-03-08 11:25:56,131 [main] INFO ebanking - enter name
+2020-03-08 11:25:56,269 [main] INFO ebanking - enter password
+2020-03-08 11:26:04,371 [main] INFO ebanking - login test passed
+2020-03-09 00:13:27,753 [main] INFO ebanking - url is opened
+2020-03-09 00:13:28,106 [main] INFO ebanking - enter name
+2020-03-09 00:15:02,612 [main] INFO ebanking - url is opened
+2020-03-09 00:15:02,766 [main] INFO ebanking - enter name
+2020-03-09 00:15:40,823 [main] INFO ebanking - url is opened
+2020-03-09 00:15:40,896 [main] INFO ebanking - enter name
+2020-03-09 00:15:41,414 [main] INFO ebanking - enter password
+2020-03-09 00:15:44,225 [main] INFO ebanking - login test passed
+2020-03-21 10:50:43,850 [main] INFO ebanking - url is opened
+2020-03-21 10:50:44,026 [main] INFO ebanking - enter name
+2020-03-21 10:51:26,117 [main] INFO ebanking - url is opened
+2020-03-21 10:51:26,197 [main] INFO ebanking - enter name
+2020-03-21 10:51:26,448 [main] INFO ebanking - enter password
+2020-03-21 10:53:04,173 [main] INFO ebanking - url is opened
+2020-03-21 10:53:04,275 [main] INFO ebanking - enter name
+2020-03-21 10:53:04,548 [main] INFO ebanking - enter password
+2020-03-21 10:56:20,221 [main] INFO ebanking - url is opened
+2020-03-21 10:56:20,320 [main] INFO ebanking - enter name
+2020-03-21 10:56:20,582 [main] INFO ebanking - enter password
